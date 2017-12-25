@@ -22,5 +22,5 @@ setInterval(function() {
 }, 1000);
 
 function fixit(event) {
- window.open("https://paramvik.github.io/countdown/index.html","Countdown", "menubar=no,toolbar=no,location=no,titlebar=no,scrollbars=no,resizable=no,top=0,left=1200,width=350,height=400");
+ window.open("https://paramvik.github.io/countdown/","Countdown", "menubar=no,toolbar=no,location=no,titlebar=no,scrollbars=no,resizable=no,top=0,left=1200,width=350,height=400");
 }
